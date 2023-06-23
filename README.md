@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |Python_Simplex_ex            | Google translator from french to english      | https://github.com/kwizerajeanclaude/Python_Simple_ex/      |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
