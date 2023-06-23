@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |Python_Simplex_ex            | Google translator from french to english      | https://github.com/kwizerajeanclaude/Python_Simple_ex/      |
-| 2 |  -             |  -             | https://       |
+| 2 | Python_Matplotlib            |Data Visualization using Matplot Library         | https://github.com/kwizerajeanclaude/Python_mathplot       |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
